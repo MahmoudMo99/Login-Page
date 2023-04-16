@@ -1,0 +1,180 @@
+body{
+    background-image: url("c.login.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+
+div.parent {
+
+    background-color: white;
+    width: 340px;
+    height: 800px;
+    margin: 15px auto;
+    border-radius: 27px;
+}
+
+ #para{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    font-weight: bold;
+    font-size: 45px;
+    color: #0b057c;
+}
+
+.user{
+  margin-left: 16px;
+  padding-top: 20px;
+}
+#laus{
+    padding-left: 12px;
+    font-size: 18px;
+}
+
+#us{
+    padding-left: 10px;
+    width: 290px;
+    height: 40px;
+    margin-top: 5px;
+    border-radius: 12px;
+    font-size: 16px;
+}
+
+.pass{
+    margin-left: 16px;
+    padding-top: 25px;
+  }
+
+  #lapass{
+    padding-left: 12px;
+    font-size: 18px;
+}
+
+#password{
+    padding-left: 10px;
+    width: 290px;
+    height: 40px;
+    margin-top: 5px;
+    border-radius: 12px;
+    font-size: 16px;
+}
+
+.link{
+    padding-left: 192px;
+    padding-top: 20px;
+}
+.link a{
+    text-decoration: none;
+    color: black;
+}
+
+.link a:hover{
+    color: #0b057c;
+}
+
+.submit{
+    padding-top: 35px;
+    padding-left: 25px;
+}
+
+#sub{
+    padding-left: 10px;
+    width: 290px;
+    height: 40px;
+    margin-top: 5px;
+    border-radius: 12px;
+    font-size: 16px;
+    background-color: #06173b;
+    color: white;
+    cursor: pointer;
+}
+
+p.loginwith{
+    padding-top: 30px;
+    padding-left: 112px;
+    font-size: 16px;
+
+}
+
+.Circles{
+    display: flex;
+    /* padding-left: 102px; */
+    padding-top: 25px;
+    justify-content: space-around;
+}
+
+.Circle1{
+    background-color:#0b057c;
+    color: white;
+    width: 50px; 
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-left: 45px;
+}
+.Circle2{
+background-color:#0b057c;
+ color: white;
+ width: 50px; 
+ height: 50px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ border-radius: 50%;
+}
+.Circle3{
+    background-color:#0b057c;
+    color: white;
+    width: 50px;
+     height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-right: 45px;
+}
+
+.Circle1 a , .Circle2 a , .Circle3 a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.Circle1 a:hover , .Circle2 a:hover , .Circle3 a:hover {
+    color: red;
+}
+
+#sign{
+    padding-left: 108px;
+    padding-top: 49px;
+}
+
+#signlink{
+    text-decoration: none;
+    padding-left: 138px;
+    font-size: large;
+    font-weight: bold;
+}
+#signlink:hover{
+   color: #0b057c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
